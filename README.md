@@ -12,7 +12,7 @@ To use URL License Adder GitHub, you need to provide a personal access token fro
 
 Once you have made these changes, you can run the program by navigating to the directory where the program is stored and running the following command:
 ```shell
-$ python3 url_license_adder.py
+$ python3 url-license-adder-github.py
 ```
 This will add the specified license to all the repositories owned by the specified user. If a repository already has a license, the program will skip that repository and move on to the next one.
 
